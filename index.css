@@ -1,0 +1,112 @@
+.first{
+    height: 50px;
+    margin-left: 100px;
+    background-color: white;
+
+}
+div #text1{
+    font-size: 15px;
+    margin-left: 9px;
+    opacity: 30%;
+    position: relative;
+    padding-bottom: 100px;
+    color: black;
+}
+.second{
+    background-color:rgb(82, 180, 219);
+    width: auto;
+    height: 500px;
+}
+div img{
+    margin-left: 200px;
+    margin-right: 60px;
+    
+}
+
+
+div span p{
+    position: absolute;
+    color: white;
+    font-size: 35px;
+    margin-top: 15PX;
+    margin-right: 100px;
+    margin-bottom: 200px;
+}
+.m {
+    display: inline-block;
+    position: absolute;
+    margin-left: 5%;
+    font-size: 50px;
+    color: white;
+    margin-top: 5%;
+}
+.v{
+    display: inline-block;
+    position: absolute;
+    margin-left: 6%;
+    font-size: 15px;
+    text-align: start;
+    width: 400px;
+    color: white;
+    margin-top: 12%;
+
+}
+.A{
+    display: inline-block;
+    position: absolute;
+    margin-left: 6%;
+    font-size: 15px;
+    text-align: start;
+    width: 400px;
+    color: white;
+    margin-top: 16%;
+
+}
+.B{
+    display: inline-block;
+    background-color: white;
+    position: absolute;
+    width: auto;
+    margin-left: 6%;
+    text-align: center;
+    font-size: 15px;
+    align-content: center;
+    height: 50px;
+    width: 150px;
+    color: rgb(82, 180, 219) ;
+    margin-top: 20%;
+
+}
+.D{
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+    font-size: 30px;
+}
+.f{
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+    font-size: 10px;
+}
+
+input{
+    border-color: blue;
+    color: blue;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+margin: 10px auto;
+}
+.footer{
+    background-color: rgb(82, 180, 219); ;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+div div span{
+ 
+ margin-left: 215px;
+
+}
